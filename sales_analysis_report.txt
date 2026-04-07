@@ -1,0 +1,56 @@
+
+SALES ANALYSIS REPORT
+Generated: 2026-04-07 20:49:53
+============================================================
+
+KEY PERFORMANCE INDICATORS
+Total Revenue:        $6,233,533
+Total Orders:         4,986
+Average Order Value:  $1,250.21
+Total Units Sold:     15,062
+Best Month:           Dec
+Top Product:          Laptop
+Top Region:           North America
+
+REGIONAL PERFORMANCE
+               total_revenue  avg_order_value  total_units
+region                                                    
+North America     2166500.07      1215.086971         5377
+Europe            1635962.82      1306.679569         3776
+Asia Pacific      1220956.27      1193.505640         3034
+Middle East        714819.08      1267.409716         1713
+Latin America      495294.99      1310.304206         1162
+
+TOP 5 PRODUCTS BY REVENUE
+product
+Laptop           $2,677,324
+Smartphone       $1,456,973
+Standing Desk      $755,498
+Office Chair       $561,806
+Headphones         $287,444
+
+REVENUE BY CATEGORY
+category
+Electronics    $4,421,741
+Furniture      $1,343,735
+Appliances       $236,343
+Apparel          $231,714
+
+ACTIONABLE RECOMMENDATIONS
+============================================================
+
+1. EXPAND ELECTRONICS - HIGHEST REVENUE CATEGORY
+   Consider expanding product line and increasing Q4 inventory.
+
+2. ADDRESS UNDERPERFORMANCE IN LATIN AMERICA
+   Targeted regional campaign or localized pricing strategy needed.
+
+3. CAPITALIZE ON Q4 SEASONALITY
+   Front-load marketing budgets to Oct-Dec period.
+
+4. IMPROVE LOW-SEASON MONTH (JUN)
+   Flash sales or bundle offers can lift revenue 10-15%.
+
+5. AOV IMPROVEMENT OPPORTUNITY - currently $1,250.21
+   Product bundling at checkout is a low-cost revenue lever.
+============================================================
